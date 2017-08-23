@@ -1,0 +1,12 @@
+{
+  "name": "verb-game",
+  "version": "1.0.0",
+  "description": "This is a game for improvement of English Verbs",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dromestrome",
+  "license": "MIT"
+}
